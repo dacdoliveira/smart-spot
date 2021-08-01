@@ -6,7 +6,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SmartSpotApplicationTests
 {
-// Teste CI
     @Test
     void contextLoads()
     {
